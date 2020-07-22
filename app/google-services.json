@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14285591994",
+    "firebase_url": "https://crypto-63420.firebaseio.com",
+    "project_id": "crypto-63420",
+    "storage_bucket": "crypto-63420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14285591994:android:51d8f345899ff3f0123983",
+        "android_client_info": {
+          "package_name": "com.byron.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14285591994-bfu98oll0sl0vel213jv5j7vsoo170oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGV6WxKTc9UnCv8yYRgh97gLnkChdEZvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14285591994-bfu98oll0sl0vel213jv5j7vsoo170oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
